@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: | TEST1_uniqueValue | london | jhon | 07845534236 | jhon@gmail.com |
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.003 sec - in | TEST1_uniqueValue | london | jhon | 07845534236 | jhon@gmail.com |
