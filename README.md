@@ -12,9 +12,9 @@
   
 ##Installation
   
-  1.Clone the repo `restful-booker-platform` and run it locally
-  2.Clone the repo `SampleTest`
-  3.Run tests locally using `mvn clean verify`
-  4.Cucumber reports are generated in `target/cucumber-html-reports`
+  * Clone the repo `restful-booker-platform` and run it locally
+  * Clone the repo `SampleTest`
+  * Run tests locally using `mvn clean verify`
+  * Cucumber reports are generated in `target/cucumber-html-reports`
   
  
