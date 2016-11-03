@@ -81,7 +81,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 8184167371,
+  "duration": 8694450481,
   "status": "passed"
 });
 formatter.scenario({
@@ -145,14 +145,14 @@ formatter.match({
   "location": "StepDefs.i_navigate_to_home_page()"
 });
 formatter.result({
-  "duration": 1232965567,
+  "duration": 1471992700,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefs.iClickOnLoginPage()"
 });
 formatter.result({
-  "duration": 1320361178,
+  "duration": 1208453350,
   "status": "passed"
 });
 formatter.match({
@@ -169,14 +169,14 @@ formatter.match({
   "location": "StepDefs.iCanProvideUsernameAndPasswordClickOnLogin(String,String)"
 });
 formatter.result({
-  "duration": 13652519294,
+  "duration": 3572470387,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefs.the_admin_page_is_displayed()"
 });
 formatter.result({
-  "duration": 816584077,
+  "duration": 2099298305,
   "status": "passed"
 });
 formatter.match({
@@ -205,7 +205,7 @@ formatter.match({
   "location": "StepDefs.i_can_enter_all_field_and(String,String,String,String,String)"
 });
 formatter.result({
-  "duration": 5827766560,
+  "duration": 7223867863,
   "status": "passed"
 });
 formatter.match({
@@ -234,22 +234,22 @@ formatter.match({
   "location": "StepDefs.i_verify_entry(String,String,String,String,String)"
 });
 formatter.result({
-  "duration": 1995039280,
+  "duration": 3519500849,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefs.i_logout_of_console()"
 });
 formatter.result({
-  "duration": 817174437,
+  "duration": 772078598,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1672452315,
+  "duration": 1921888617,
   "status": "passed"
 });
 formatter.before({
-  "duration": 7772923755,
+  "duration": 7777495811,
   "status": "passed"
 });
 formatter.scenario({
@@ -319,14 +319,14 @@ formatter.match({
   "location": "StepDefs.i_navigate_to_home_page()"
 });
 formatter.result({
-  "duration": 1280039536,
+  "duration": 1368822470,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefs.iClickOnLoginPage()"
 });
 formatter.result({
-  "duration": 1084070763,
+  "duration": 1017403799,
   "status": "passed"
 });
 formatter.match({
@@ -343,14 +343,14 @@ formatter.match({
   "location": "StepDefs.iCanProvideUsernameAndPasswordClickOnLogin(String,String)"
 });
 formatter.result({
-  "duration": 4196007149,
+  "duration": 3144094279,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefs.the_admin_page_is_displayed()"
 });
 formatter.result({
-  "duration": 782649302,
+  "duration": 2130978289,
   "status": "passed"
 });
 formatter.match({
@@ -379,7 +379,7 @@ formatter.match({
   "location": "StepDefs.i_can_enter_all_field_and(String,String,String,String,String)"
 });
 formatter.result({
-  "duration": 7385733633,
+  "duration": 6934098317,
   "status": "passed"
 });
 formatter.match({
@@ -408,7 +408,7 @@ formatter.match({
   "location": "StepDefs.i_verify_entry(String,String,String,String,String)"
 });
 formatter.result({
-  "duration": 2676160919,
+  "duration": 4443485400,
   "status": "passed"
 });
 formatter.match({
@@ -437,7 +437,7 @@ formatter.match({
   "location": "StepDefs.i_can_enter_all_field_and(String,String,String,String,String)"
 });
 formatter.result({
-  "duration": 8756947441,
+  "duration": 7878201967,
   "status": "passed"
 });
 formatter.match({
@@ -466,7 +466,7 @@ formatter.match({
   "location": "StepDefs.i_verify_entry(String,String,String,String,String)"
 });
 formatter.result({
-  "duration": 3161119676,
+  "duration": 6057806653,
   "status": "passed"
 });
 formatter.match({
@@ -495,7 +495,7 @@ formatter.match({
   "location": "StepDefs.i_can_enter_all_field_and(String,String,String,String,String)"
 });
 formatter.result({
-  "duration": 8019319011,
+  "duration": 7444648718,
   "status": "passed"
 });
 formatter.match({
@@ -524,22 +524,22 @@ formatter.match({
   "location": "StepDefs.i_verify_entry(String,String,String,String,String)"
 });
 formatter.result({
-  "duration": 3762186609,
+  "duration": 2736332136,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefs.i_logout_of_console()"
 });
 formatter.result({
-  "duration": 915043473,
+  "duration": 312375028,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1766939386,
+  "duration": 1654899476,
   "status": "passed"
 });
 formatter.before({
-  "duration": 7057114107,
+  "duration": 8516285327,
   "status": "passed"
 });
 formatter.scenario({
@@ -594,14 +594,14 @@ formatter.match({
   "location": "StepDefs.i_navigate_to_home_page()"
 });
 formatter.result({
-  "duration": 1225842869,
+  "duration": 963639528,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefs.iClickOnLoginPage()"
 });
 formatter.result({
-  "duration": 1237122630,
+  "duration": 1031654994,
   "status": "passed"
 });
 formatter.match({
@@ -618,14 +618,14 @@ formatter.match({
   "location": "StepDefs.iCanProvideUsernameAndPasswordClickOnLogin(String,String)"
 });
 formatter.result({
-  "duration": 3477349672,
+  "duration": 3699865016,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefs.the_admin_page_is_displayed()"
 });
 formatter.result({
-  "duration": 1386967901,
+  "duration": 1618029411,
   "status": "passed"
 });
 formatter.match({
@@ -654,7 +654,7 @@ formatter.match({
   "location": "StepDefs.i_can_enter_all_field_and(String,String,String,String,String)"
 });
 formatter.result({
-  "duration": 5242934308,
+  "duration": 8445559023,
   "status": "passed"
 });
 formatter.match({
@@ -683,7 +683,7 @@ formatter.match({
   "location": "StepDefs.i_verify_entry(String,String,String,String,String)"
 });
 formatter.result({
-  "duration": 7549074187,
+  "duration": 5326030508,
   "status": "passed"
 });
 formatter.match({
@@ -696,18 +696,18 @@ formatter.match({
   "location": "StepDefs.i_remove_entry(String)"
 });
 formatter.result({
-  "duration": 4567024616,
+  "duration": 5897857881,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefs.i_logout_of_console()"
 });
 formatter.result({
-  "duration": 896210852,
+  "duration": 1597418569,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1477166271,
+  "duration": 1580480187,
   "status": "passed"
 });
 });
