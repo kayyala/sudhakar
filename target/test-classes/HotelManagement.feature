@@ -14,8 +14,8 @@ Feature:Hotel Booking Platform
     And I logout of console
 
     Examples:
-      | Hotelname        | Adress | Owner | Phonenumber   | Email          |
-      | TEST1_uniqueValue | london | jhon  | 07845534236 | jhon@gmail.com |
+      | Hotelname         | Adress | Owner | Phonenumber | Email          |
+      | TEST1_uniqueValue | London | Jhon  | 07845534236 | jhon@gmail.com |
 
 
   Scenario: Create multiple entries

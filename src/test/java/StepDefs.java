@@ -1,3 +1,4 @@
+
 import cucumber.api.PendingException;
 import cucumber.api.java.After;
 import cucumber.api.java.Before;
@@ -32,7 +33,7 @@ public class StepDefs {
     public void openBrowser() throws IOException {
         System.setProperty("webdriver.ie.driver", System.getProperty("user.dir")+"\\src\\test\\resources\\IEDriverServer.exe");
         driver = new InternetExplorerDriver();
-        driver.manage().window().maximize();
+       // driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(5000, TimeUnit.SECONDS);
         Date dNow = new Date();
         SimpleDateFormat ft = new SimpleDateFormat("yyMMddhhmmssMs");
@@ -40,9 +41,11 @@ public class StepDefs {
     }
 
     @After
-    public void closeBrowser() {
+    public void closeBrowser()
+    {
         driver.quit();
     }
+
 
     @Given("^I am navigate to homepage")
     public void i_navigate_to_home_page() throws Throwable {
@@ -73,7 +76,7 @@ public class StepDefs {
     public String getUniqueHotelName(String hotelName) {
         String uniqueHotelName = hotelName;
         if(hotelName.contains("uniqueValue")) {
-            uniqueHotelName = hotelName.replace("uniqueValue", unqieuValue);
+           uniqueHotelName = hotelName.replace("uniqueValue", unqieuValue);
         }
         return uniqueHotelName;
     }
